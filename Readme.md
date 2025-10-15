@@ -10,7 +10,7 @@ A couple of notes:
 * The table is sorted by last name.
 * The table has a more modern look that comes from use of CSS (embedded in the <style></style> tags in the HTML). That look was taken from: https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l
 * As you mouse-over the rows, they change color, and the telephone number appears as a tip message (the little popup message). The mouse-over effect was implemented using CSS, taken from: https://medium.com/@brajagopal.tripathi/how-to-change-the-text-color-on-a-mouseover-in-html-697f4d4210fa
-* There is a video demo of the table with mouse-over effects available: Demo Video in Yuja
+* There is a video demo of the table with mouse-over effects available: [Demo Video in Yuja](https://plattsburgh.video.yuja.com/V/Video?v=9944876&node=43540643&a=144570018)
 
 I've provided templates for the HTML and Javascript. (Note that you'll need to rename the Javascript for it to work).
 
